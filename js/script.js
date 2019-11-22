@@ -11,6 +11,5 @@ document.getElementById("textoutput") = input;
 
 
 
-
-window.addEventListener('load', init);
 }
+window.addEventListener('load', init);
