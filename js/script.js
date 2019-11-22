@@ -1,6 +1,6 @@
 function init(){
 //add your javascrip between these two lines of code
-document.getElementById("button").addEventListener("press", function()
+document.getElementById("entrybutton").addEventListener("click", function()
 alert("Kenton Fong: ")
 
 )
