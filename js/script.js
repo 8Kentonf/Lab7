@@ -13,3 +13,4 @@ document.getElementById("textoutput") = input;
 
 
 window.addEventListener('load', init);
+}
