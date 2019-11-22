@@ -4,7 +4,8 @@ document.getElementById("entrybutton").addEventListener("click", myFunction);
 
 function myFunction()
 {
-alert("Kenton Fong: " + document.getElementById("entryinput"));
+  input = document.getElementById("entryinput").value;
+alert("Kenton Fong: " + input);
 document.getElementById("textoutput") = input;
 }
 
