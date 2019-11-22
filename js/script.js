@@ -6,7 +6,7 @@ function myFunction()
 {
   input = document.getElementById("entryinput").value;
 alert("Kenton Fong: " + input);
-h2.innerHTML = input;
+document.getElementById("textoutput").innerHTML = input;
 }
 
 
